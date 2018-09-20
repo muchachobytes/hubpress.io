@@ -10,7 +10,7 @@
   },
   "urls": {
     "site": "http://muchachobytes.github.io",
-    "hubpress": "http://localhost:8081",
+    "hubpress": "https://muchachobytes.github.io",
     "theme": "//muchachobytes.github.io/themes/casper",
     "images": "http://muchachobytes.github.io/images"
   },
